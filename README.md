@@ -37,7 +37,9 @@
 
 - Edgar Gustavo Navarro Renza
 
-- Jhon Edinson Acevedo Rojas  
+- Jhon Edinson Acevedo Rojas
+  
+- Juan Felipe Guevara
 
 #  Sistema de Monitoreo y Telemetría para Empresa de Buses
 
